@@ -1,0 +1,20 @@
+﻿RageComicGenerator
+npSoftware
+nick@npsoftware.co.uk
+Change Log
+
+--------------------------------------------------------------------------------
+
+Known Issues :
+
+...
+
+--------------------------------------------------------------------------------
+
+Sun 03/07/2011
+
+*  First release of RageComicGenerator.
+*  Created ClickOnce installer.
+*  Added "tip" to comic page editor which appears once the layout has been changed, instructing how to add content; in order to aid new users.
+
+--------------------------------------------------------------------------------

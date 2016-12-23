@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Layouts>
+  <Layout description="">
+    <Rows>
+      <Row height="33%" />
+      <Row height="33%" />
+    </Rows>
+    <Columns>
+      <Column width="33%" />
+      <Column width="33%" /> 
+    </Columns>
+  </Layout>
+  <Layout description="">
+    <Rows>
+      <Row height="33%" />
+      <Row height="33%" colspan="2" />
+    </Rows>
+    <Columns>
+      <Column width="33%" />
+      <Column width="33%" />
+    </Columns>
+  </Layout>
+  <Layout description="">
+    <Rows>
+      <Row height="33%" />
+    </Rows>
+    <Columns>
+      <Column width="33%" />
+      <Column width="33%" />
+    </Columns>
+  </Layout>
+</Layouts>
